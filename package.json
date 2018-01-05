@@ -1,0 +1,16 @@
+{
+  "name": "pick-node-modules",
+  "version": "0.0.0",
+  "description": "(wip)Pick packages from a superset by a package.json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pick",
+    "node_modules",
+    "superset"
+  ],
+  "author": "wmzy",
+  "license": "ISC"
+}
